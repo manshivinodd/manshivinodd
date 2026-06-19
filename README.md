@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manshi Maurya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width=400px src="https://github.com/user-attachments/assets/96732d4b-f96a-4f45-87ba-8404ca07cefa" />
 
